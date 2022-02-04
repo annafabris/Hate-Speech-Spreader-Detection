@@ -9,9 +9,20 @@ Four  different  methods  (SVM,  BiLSTM, BiGRU,  and  BERTweet)  were  trained  
 
 The steps taken are described in detail in the [Report](https://github.com/annafabris/Hate-Speech-Spreader-Detection/blob/main/NLP_Project.pdf).
 
-All the code may be viewed directly from the: [Notebook](https://github.com/annafabris/Hate-Speech-Spreader-Detection/blob/main/main.ipynb?flush_cache=false).
+All the code may be viewed directly from the [Notebook](https://github.com/annafabris/Hate-Speech-Spreader-Detection/blob/main/main.ipynb?flush_cache=false).
 
 ## Authors
 - [Anna Fabris](https://github.com/annafabris)
 - [Miki Mizutani](https://github.com/mikimizutani)
 - [Leonidas Gee](https://github.com/LeonidasY)
+
+## Results
+
+Below the table of the test accuracy on the dataset of the four differents model and their respective encodings.
+
+|     Method     | Test Accuracy |
+|:--------------:|:-------------:|
+| TF-IDF + SVM   |          76.0 |
+| GLoVe + BiLSTM |          64.0 |
+| GLoVe + BiGRU  |          67.0 |
+| BERTweet       |          78.0 |
