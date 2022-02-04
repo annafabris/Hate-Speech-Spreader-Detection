@@ -10,7 +10,7 @@ The University of Bologna (UniBo) Natural Language Processing (NLP) project.
 - [Leonidas Gee](https://github.com/LeonidasY)
 
 ## Methodologies
-The steps taken for each method are described in the report: [Report](https://github.com/LeonidasY/unibo-nlp-assignments/blob/main/Assignment%201/Report.pdf)
+The steps taken for each method are described in the report: [Report](https://github.com/annafabris/Hate-Speech-Spreader-Detection/blob/main/NLP_Project.pdf)
 
 ## Notebooks
-The notebook may be viewed directly using the following links: [Notebook](https://nbviewer.org/github/LeonidasY/unibo-nlp-assignments/blob/main/Assignment%201/main.ipynb?flush_cache=false)
+The notebook may be viewed directly using the following links: [Notebook](https://github.com/annafabris/Hate-Speech-Spreader-Detection/blob/main/main.ipynb?flush_cache=false)
