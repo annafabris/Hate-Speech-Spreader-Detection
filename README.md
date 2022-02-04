@@ -1,4 +1,4 @@
-# Hate-Speech-Spreader-Detection
+# Hate Speech Spreader Detection
 Hate Speech Spreader Detection on the PAN-AP-2021 dataset
 
 ## About The Project
