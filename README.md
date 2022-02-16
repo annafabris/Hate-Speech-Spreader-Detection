@@ -1,7 +1,7 @@
 # Hate Speech Spreader Detection
 Hate Speech Spreader Detection on the PAN-AP-2021 dataset
 
-## About the Project
+## Overview
 The University of Bologna (UniBo) Natural Language Processing (NLP) project. 
 In this project, we utilised the PAN-AP-2021 dataset to profile hate speech spreaders in social media, more specifically on Twitter, addressing the problem in English. 
 
